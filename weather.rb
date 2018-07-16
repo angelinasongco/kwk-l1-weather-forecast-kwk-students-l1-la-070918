@@ -38,7 +38,7 @@ weather = {
 	:temperature_celcius => 19.1
 }
 weather.each do |city,description,temperature_farenheit,temperature_celcius|
-  puts "The weather in #{city} is #{description}. The temperature is #{temperature_farenheit} degrees Farenheit."
+  # puts "The weather in #{city} is #{description}. The temperature is #{temperature_farenheit} degrees Farenheit."
 end  
 
 
