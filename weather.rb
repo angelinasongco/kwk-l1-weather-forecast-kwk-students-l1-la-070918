@@ -15,7 +15,7 @@ weather = {
 	:temperature_celcius => 19.1
 }
 puts weather[:city]
-end
+
 
 
 
