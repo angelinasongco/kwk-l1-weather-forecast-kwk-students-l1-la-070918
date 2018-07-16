@@ -14,9 +14,9 @@ weather = {
 	:temperature_farenheit => 66.3,
 	:temperature_celcius => 19.1
 }
-puts weather[:city]
+
 end
-puts[:city]
+puts weather[:city]
 
 
 
