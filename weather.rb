@@ -16,6 +16,7 @@ weather = {
 }
 puts[:city]
 end
+puts[:city]
 
 
 
