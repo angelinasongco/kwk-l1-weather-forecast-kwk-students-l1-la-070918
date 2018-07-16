@@ -14,9 +14,10 @@ weather = {
 	:temperature_farenheit => 66.3,
 	:temperature_celcius => 19.1
 }
+puts[city]
 end
 
-puts location[city]
+
 
 # 2. Using the location method as a guide, write a  method called "description" so it returns the description from the weather hash. 
 
